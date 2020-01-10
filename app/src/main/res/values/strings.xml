@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retofitfinal</string>
+    <string name="s_pref_file">tatastrive.application.retofitfinal.sh_preference_file</string>
+    <string name="s_pref_login_status">tatastrive.application.retofitfinal.sh_preference_login_status</string>
+    <string name="s_pref_name">tatastrive.application.retofitfinal.sh_preference_name</string>
+    <string name="s_pref_email">tatastrive.application.retofitfinal.sh_preference_email</string>
+    <string name="s_pref_date">tatastrive.application.retofitfinal.sh_preference_date</string>
+</resources>
